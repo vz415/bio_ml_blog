@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2fa8a98-3933-4ddd-98a9-f722d2f8b739" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jupyter-blog.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/Taiwan Analysis Final.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/Taiwan Analysis Final.ipynb-meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/develop_server.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fabfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pelicanconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publishconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/archives.html" afterPath="$PROJECT_DIR$/output/archives.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/author/vincent-zaballa.html" afterPath="$PROJECT_DIR$/output/author/vincent-zaballa.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/authors.html" afterPath="$PROJECT_DIR$/output/authors.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories.html" afterPath="$PROJECT_DIR$/output/categories.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/category/posts.html" afterPath="$PROJECT_DIR$/output/category/posts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feeds/all.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/all.atom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feeds/posts.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/posts.atom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/first-post.html" afterPath="$PROJECT_DIR$/output/first-post.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tag/python-firsts-ml.html" afterPath="$PROJECT_DIR$/output/tag/python-firsts-ml.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tags.html" afterPath="$PROJECT_DIR$/output/tags.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/css/main.css" afterPath="$PROJECT_DIR$/output/theme/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/css/pygment.css" afterPath="$PROJECT_DIR$/output/theme/css/pygment.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/css/reset.css" afterPath="$PROJECT_DIR$/output/theme/css/reset.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/css/typogrify.css" afterPath="$PROJECT_DIR$/output/theme/css/typogrify.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/css/wide.css" afterPath="$PROJECT_DIR$/output/theme/css/wide.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/aboutme.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/aboutme.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/bitbucket.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/bitbucket.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/delicious.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/delicious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/facebook.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/facebook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/github.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/github.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/gitorious.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/gitorious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/gittip.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/gittip.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/google-groups.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/google-groups.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/google-plus.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/google-plus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/hackernews.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/hackernews.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/lastfm.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/lastfm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/linkedin.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/linkedin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/reddit.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/reddit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/rss.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/rss.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/slideshare.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/slideshare.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/speakerdeck.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/speakerdeck.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/stackoverflow.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/stackoverflow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/twitter.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/twitter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/vimeo.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/vimeo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/images/icons/youtube.png" afterPath="$PROJECT_DIR$/output/theme/images/icons/youtube.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/Home.md" afterPath="$PROJECT_DIR$/content/Home.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,12 +23,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-762">
+              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/Home.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -92,6 +65,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/publishconf.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/content/Home.md" />
       </list>
     </option>
   </component>
@@ -123,6 +98,11 @@
             <path>
               <item name="jupyter-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="jupyter-blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jupyter-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyter-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,15 +149,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1600" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3097015" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3097015" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23299101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23299101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -220,6 +201,25 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-762">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/Home.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
