@@ -13,4 +13,5 @@ of those technologies.
 
 When I'm not writing about medical devices or prototyping deep 
 learning models, I take freelance work to help pay the bills. Please 
-get in touch if you would like more information. 
+get in touch if you would like to discuss any data science or deep 
+learning projects you have and would like assistance with. 
