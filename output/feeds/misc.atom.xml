@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Science and Medical Devices</title><link href="http://vz415.github.io/" rel="alternate"></link><link href="http://vz415.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://vz415.github.io/</id><updated>2018-01-01T00:00:00-07:00</updated><entry><title>About</title><link href="http://vz415.github.io/" rel="alternate"></link><published>2018-01-01T00:00:00-07:00</published><updated>2018-01-01T00:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2018-01-01:</id><summary type="html">&lt;hr /&gt;
+&lt;h1&gt;About&lt;/h1&gt;
+&lt;p&gt;My name is Vincent Zaballa. I am a biomedical engineer by training and 
+education, and a data scientist by trial and error. My interests lie 
+within the realm of medical devices, ranging from tissue engineering 
+ to deep learning diagnostics, and the practical implementations
+of those technologies. &lt;/p&gt;
+&lt;p&gt;When I'm not writing about medical devices or prototyping deep 
+learning models, I take freelance work to help pay the bills. Please 
+get in touch if you would like to discuss any data science or deep 
+learning projects you have and would like assistance with. &lt;/p&gt;</summary></entry><entry><title>Home</title><link href="http://vz415.github.io/" rel="alternate"></link><published>2018-01-01T00:00:00-07:00</published><updated>2018-01-01T00:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2018-01-01:</id><summary type="html">&lt;hr /&gt;
+&lt;h1&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;Thanks for stopping by my blog. I write about my interests and share 
+some code here, mostly related to machine learning. If you find 
+anything interesting or have any questions, let me know.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;News and Events&lt;/h2&gt;
+&lt;p&gt;2017/11/04 - Gave a demonstration of Tensorflow at Pysprings, Colorado
+ Springs's python group.&lt;/p&gt;
+&lt;p&gt;2017/05/25 - Won Colorado's "Go Code Colorado" data-related hackathon.&lt;/p&gt;</summary></entry></feed>
