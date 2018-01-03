@@ -2,9 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2fa8a98-3933-4ddd-98a9-f722d2f8b739" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/vincent-zaballa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/vincent-zaballa2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/vincent-zaballa3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/misc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/misc2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/posts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/first-post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/python-firsts-ml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/pygment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/typogrify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/wide.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/aboutme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/bitbucket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/delicious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/gitorious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/gittip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/google-groups.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/google-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/hackernews.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/lastfm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/reddit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/slideshare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/speakerdeck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/stackoverflow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/vimeo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/youtube.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/author/vincent-zaballa.html" afterPath="$PROJECT_DIR$/output/author/vincent-zaballa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/category/misc.html" afterPath="$PROJECT_DIR$/output/category/misc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +57,32 @@
       <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="95" column="1" lean-forward="false" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/ipynb/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/ipynb/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -87,7 +148,7 @@
             <path>
               <item name="jupyter-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="jupyter-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,10 +281,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/ipynb/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/ipynb/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pelicanconf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="95" column="1" lean-forward="false" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
           <folding />
         </state>
       </provider>

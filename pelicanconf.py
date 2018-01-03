@@ -53,8 +53,9 @@ MENUITEMS = (('Archives', '/archives.html'),
 
 DEFAULT_PAGINATION = 10
 
+from plugins import sitemap, post_stats, i18n_subsites
 PLUGIN_PATH = './plugins'
-PLUGINS = ['sitemap', 'post_stats', 'i18n_subsites', 'ipynb.markup']
+PLUGINS = [sitemap, 'post_stats', 'i18n_subsites', 'ipynb.markup']
 
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
