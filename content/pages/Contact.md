@@ -1,13 +1,14 @@
-Title: Home
+Title: Contact
 Date: 2018-01-01
-URL: 
-save_as: index.html
+Modified: 2018-01-04
+Slug: Contact
 
 ---
-# Welcome
-Thanks for stopping by my blog. I write about my interests and share 
-some code here, mostly related to machine learning. If you find 
-anything interesting or have any questions, let me know.
+# Contact
+Thanks for stopping by my blog. I write about my interests in biomedical
+ engineering and share some code here, mostly related to machine 
+ learning. If you find anything interesting or have any questions, 
+ let me know.
 ---
 
 ## News and Events
