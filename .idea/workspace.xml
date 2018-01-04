@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2fa8a98-3933-4ddd-98a9-f722d2f8b739" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/profpic.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/profpic_copy_kFg_icon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="$PROJECT_DIR$/output/archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/author/vincent-zaballa.html" afterPath="$PROJECT_DIR$/output/author/vincent-zaballa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="$PROJECT_DIR$/output/authors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="$PROJECT_DIR$/output/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/category/posts.html" afterPath="$PROJECT_DIR$/output/category/posts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/first-post.html" afterPath="$PROJECT_DIR$/output/first-post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/sitemap.xml" afterPath="$PROJECT_DIR$/output/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tag/python-firsts-ml.html" afterPath="$PROJECT_DIR$/output/tag/python-firsts-ml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="$PROJECT_DIR$/output/tags.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +19,8 @@
       <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+            <state relative-caret-position="180">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -39,7 +31,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="225">
-                <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+                <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -121,7 +113,13 @@
               <item name="jupyter-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="jupyter-blog" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jupyter-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyter-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,7 +294,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="225">
-            <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
@@ -305,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pelicanconf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
       </provider>

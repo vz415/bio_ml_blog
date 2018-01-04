@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 
 AUTHOR = 'Vincent Zaballa'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 SITENAME = 'Data Science and Medical Devices'
 SITEDESCRIPTION = 'Insights and Analyses'
-# SITELOGO = SITEURL
-# FAVICON = SITEURL
+SITELOGO = SITEURL + '/images/profpic.jpeg'
+FAVICON = SITEURL + '/imags/profpic_copy_kFg_icon.ico'
 BROWSER_COLOR = '#333'
 PYGMENTS_STYLE = 'monokai'
 
