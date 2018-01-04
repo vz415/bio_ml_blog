@@ -35,13 +35,10 @@ MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('linkedin', 'https://www.linkedin.com/in/vincentzaballa/'),
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/vincentzaballa/'),
           ('github', 'https://github.com/vz415'),
           ('twitter', 'https://twitter.com/VZaballa?lang=en'))
 
