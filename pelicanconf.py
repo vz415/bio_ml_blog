@@ -3,10 +3,10 @@
 from __future__ import unicode_literals
 
 
-AUTHOR = 'Vincent Zaballa'
-SITEURL = 'http://localhost:8000'
+AUTHOR = u'Vincent Zaballa'
 SITENAME = 'Data Science and Medical Devices'
 SITEDESCRIPTION = 'Insights and Analyses'
+SITEURL = u'http://localhost:8000'
 SITELOGO = SITEURL + '/images/profpic.jpeg'
 FAVICON = SITEURL + '/imags/profpic_copy_kFg_icon.ico'
 BROWSER_COLOR = '#333'
