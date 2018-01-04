@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 
-AUTHOR = u'Vincent Zaballa'
+AUTHOR = 'Vincent Zaballa'
 SITENAME = 'Data Science and Medical Devices'
 SITEDESCRIPTION = 'Insights and Analyses'
 SITEURL = u'http://localhost:8000'
@@ -92,11 +92,7 @@ SITEMAP = {
 
 DISQUS_SITENAME = 'Data Science and Medical Devices'
 
-STATIC_PATHS = ['images', 'extra']
-
-EXTRA_PATH_METADATA = {
-    'extra/custom.css': {'path': 'static/custom.css'},
-}
+STATIC_PATHS = ['images', 'figures']
 
 CUSTOM_CSS = 'static/custom.css'
 
