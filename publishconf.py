@@ -12,6 +12,8 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'http://vz415.github.io'
+SITELOGO = SITEURL + '/images/profpic.jpeg'
+FAVICON = SITEURL + '/images/profpic_copy_kFg_icon.ico'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -21,5 +23,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = True
+DISQUS_SITENAME = 'sup-1'
 GOOGLE_ANALYTICS = 'UA-111894725-1'
