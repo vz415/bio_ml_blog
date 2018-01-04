@@ -8,6 +8,7 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
+
 from pelicanconf import *
 
 SITEURL = 'http://vz415.github.io'
@@ -21,4 +22,4 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = True
-GOOGLE_ANALYTICS = True
+GOOGLE_ANALYTICS = 'UA-111894725-1'

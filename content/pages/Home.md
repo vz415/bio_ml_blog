@@ -13,5 +13,3 @@ anything interesting or have any questions, let me know.
 ## News and Events
 2017/11/04 - Gave a demonstration of Tensorflow at Pysprings, Colorado
  Springs's python group.
-
-2017/05/25 - Won Colorado's "Go Code Colorado" data-related hackathon.

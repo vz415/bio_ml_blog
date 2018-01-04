@@ -37,7 +37,6 @@ HOME_HIDE_TAGS = True
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
@@ -51,11 +50,17 @@ MENUITEMS = (('Archives', '/archives.html'),
              ('Tags', '/tags.html'),)
 ## TODO: Add an about me section or something like that
 
+CC_LICENSE = {
+    'name': 'Creative Commons Attribution-ShareAlike',
+    'version': '4.0',
+    'slug': 'by-sa'
+}
+
 DEFAULT_PAGINATION = 10
 
-from plugins import sitemap, post_stats, i18n_subsites
-PLUGIN_PATH = './plugins'
-PLUGINS = [sitemap, 'post_stats', 'i18n_subsites', 'ipynb.markup']
+# from plugins import sitemap, post_stats, i18n_subsites
+PLUGIN_PATHS = ['./plugins', ]
+PLUGINS = ['sitemap', 'post_stats', 'i18n_subsites', 'ipynb.markup', ]
 
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},

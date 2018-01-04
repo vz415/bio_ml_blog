@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Science and Medical Devices</title><link href="http://vz415.github.io/" rel="alternate"></link><link href="http://vz415.github.io/feeds/all.atom.xml" rel="self"></link><id>http://vz415.github.io/</id><updated>2018-01-01T00:00:00-07:00</updated><entry><title>About</title><link href="http://vz415.github.io/" rel="alternate"></link><published>2018-01-01T00:00:00-07:00</published><updated>2018-01-01T00:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2018-01-01:</id><summary type="html">&lt;hr /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Science and Medical Devices</title><link href="http://vz415.github.io/" rel="alternate"></link><link href="http://vz415.github.io/feeds/all.atom.xml" rel="self"></link><id>http://vz415.github.io/</id><updated>2018-01-01T00:00:00-07:00</updated><entry><title>About</title><link href="http://vz415.github.io/" rel="alternate"></link><published>2018-01-01T00:00:00-07:00</published><updated>2018-01-01T00:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2018-01-01:/</id><summary type="html">&lt;hr&gt;
+&lt;h1&gt;About&lt;/h1&gt;
+&lt;p&gt;My name is Vincent Zaballa. I am a biomedical engineer by training and 
+education, and a data scientist by trial and error. My interests lie 
+within the realm of medical devices, ranging from tissue engineering 
+ to deep learning diagnostics, and the practical implementations
+of those technologies. &lt;/p&gt;
+&lt;p&gt;When I'm not …&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;h1&gt;About&lt;/h1&gt;
 &lt;p&gt;My name is Vincent Zaballa. I am a biomedical engineer by training and 
 education, and a data scientist by trial and error. My interests lie 
@@ -9,16 +16,31 @@ of those technologies. &lt;/p&gt;
 &lt;p&gt;When I'm not writing about medical devices or prototyping deep 
 learning models, I take freelance work to help pay the bills. Please 
 get in touch if you would like to discuss any data science or deep 
-learning projects you have and would like assistance with. &lt;/p&gt;</summary></entry><entry><title>Home</title><link href="http://vz415.github.io/" rel="alternate"></link><published>2018-01-01T00:00:00-07:00</published><updated>2018-01-01T00:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2018-01-01:</id><summary type="html">&lt;hr /&gt;
+learning projects you have and would like assistance with. &lt;/p&gt;</content></entry><entry><title>Home</title><link href="http://vz415.github.io/" rel="alternate"></link><published>2018-01-01T00:00:00-07:00</published><updated>2018-01-01T00:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2018-01-01:/</id><summary type="html">&lt;hr&gt;
 &lt;h1&gt;Welcome&lt;/h1&gt;
 &lt;p&gt;Thanks for stopping by my blog. I write about my interests and share 
 some code here, mostly related to machine learning. If you find 
 anything interesting or have any questions, let me know.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
+&lt;h2&gt;News and Events&lt;/h2&gt;
+&lt;p&gt;2017/11/04 - Gave a demonstration of Tensorflow at Pysprings, Colorado
+ Springs's python …&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;h1&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;Thanks for stopping by my blog. I write about my interests and share 
+some code here, mostly related to machine learning. If you find 
+anything interesting or have any questions, let me know.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2&gt;News and Events&lt;/h2&gt;
 &lt;p&gt;2017/11/04 - Gave a demonstration of Tensorflow at Pysprings, Colorado
  Springs's python group.&lt;/p&gt;
-&lt;p&gt;2017/05/25 - Won Colorado's "Go Code Colorado" data-related hackathon.&lt;/p&gt;</summary></entry><entry><title>First Post - A Taiwan Credit analysis</title><link href="http://vz415.github.io/first-post.html" rel="alternate"></link><published>2017-12-22T20:00:00-07:00</published><updated>2017-12-22T20:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2017-12-22:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+&lt;p&gt;2017/05/25 - Won Colorado's "Go Code Colorado" data-related hackathon.&lt;/p&gt;</content></entry><entry><title>First Post - A Taiwan Credit analysis</title><link href="http://vz415.github.io/first-post.html" rel="alternate"></link><published>2017-12-22T20:00:00-07:00</published><updated>2017-12-22T20:00:00-07:00</updated><author><name>Vincent Zaballa</name></author><id>tag:vz415.github.io,2017-12-22:/first-post.html</id><summary type="html">
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h1 id="Credit-Card-Default-Analysis"&gt;Credit Card Default Analysis&lt;a class="anchor-link" href="#Credit-Card-Default-Analysis"&gt;¶&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;This notebook will be dedicated to analyzing credit card records from payments in Taiwan. The goal is to create a model to predict the probability of defaulting on a payment.&lt;/p&gt;
+&lt;p&gt;The dataset I am using in this project is aimed at the case of customer default payments in Taiwan (Yeh and Lien, 2006) and compares the predictive accuracy of probability of default among data mining methods, with explanations of each step required to go from the imported data to data that can be used to classify defaults. For classification, I start by applying simple classification algorithms to the problem and assessing their accuracy using various performance metrics, including accuracy, precision, recall, and a ROC curves, when needed. This will conclude the first portion of this project, as this will tell how accurate traditional methods of classification are when trying to predict credit card defaults within this dataset.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -5709,4 +5731,4 @@ avg / total       0.72      0.71      0.70      9340
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</summary><category term="python firsts ML"></category></entry></feed>
+</content><category term="python firsts ML"></category></entry></feed>
