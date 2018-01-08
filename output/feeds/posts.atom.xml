@@ -5699,4 +5699,4 @@ avg / total       0.72      0.71      0.70      9340
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="python firsts ML"></category></entry></feed>
+</content><category term="python"></category><category term="first ML models"></category><category term="logistic regression"></category></entry></feed>
