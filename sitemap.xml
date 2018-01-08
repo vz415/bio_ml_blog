@@ -5,30 +5,37 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://vz415.github.io/</loc>
-<lastmod>2018-01-07T18:38:48-00:00</lastmod>
+<lastmod>2018-01-07T19:28:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://vz415.github.io/archives.html</loc>
-<lastmod>2018-01-07T18:38:48-00:00</lastmod>
+<lastmod>2018-01-07T19:28:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://vz415.github.io/tags.html</loc>
-<lastmod>2018-01-07T18:38:48-00:00</lastmod>
+<lastmod>2018-01-07T19:28:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://vz415.github.io/categories.html</loc>
-<lastmod>2018-01-07T18:38:48-00:00</lastmod>
+<lastmod>2018-01-07T19:28:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://vz415.github.io/pages/About.html</loc>
+<lastmod>2018-01-07T00:00:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
 </url>
 
 <url>
