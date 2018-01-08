@@ -2,689 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2fa8a98-3933-4ddd-98a9-f722d2f8b739" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/test_data/dummy-200x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/test_data/dummy-250x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/test_data/dummy-800x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/140x140.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/171x180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/300x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/images/img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/images/img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/latex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/SourceCodePro-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/SourceCodePro-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/test_data/agallery/best.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/test_data/agallery/night.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/pictures/Fat_Cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/pictures/Sushi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/pictures/Sushi_Macro.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/aboutme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/bitbucket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/delicious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/gitorious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/gittip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/google-groups.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/google-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/hackernews.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/lastfm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/reddit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/slideshare.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/speakerdeck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/images/icons/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/test_data/expected_exact.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/test_data/expected_height.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/test_data/expected_square.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/test_data/expected_width.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/test_data/sample_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/test_data/subdir/sample_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jupyter-blog.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb-meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/pages/About.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/pages/Contact.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/pages/Projects.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/develop_server.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fabfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/archives.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/author/vincent-zaballa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/authors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/categories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/category/posts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/first-post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/pages/Contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/tag/python-firsts-ml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/tags.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pelicanconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/Contributing.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/always_modified/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/always_modified/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/always_modified/always_modified.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/asciidoc_reader/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/asciidoc_reader/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/asciidoc_reader/asciidoc_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/asciidoc_reader/asciidocapi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/asciidoc_reader/test_asciidoc_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/asciidoc_reader/test_data/article_with_asc_extension.asc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/asciidoc_reader/test_data/article_with_asc_options.asc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/assets/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/assets/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/assets/assets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/assets/test_assets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/assets/test_data/static/css/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/assets/test_data/static/css/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/assets/test_data/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/author_images/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/author_images/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/author_images/author_images.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/author_images/generate_hashsum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/autopages/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/autopages/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/autopages/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/autopages/autopages.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_codeblock_line_numbering/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_codeblock_line_numbering/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_codeblock_line_numbering/better_codeblock_line_numbering.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/better_figures_and_images.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/test_data/images-test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_figures_and_images/test_data/images-test.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_tables/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_tables/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_tables/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/better_tables/better_tables.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/directives.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-buttons.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-code.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-grid-system.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-helpers.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-images.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-overview.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-tables.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS-typography.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/CSS.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/bootstrap-glyphs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/bootstrap-roles.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-alerts.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-badges.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-breadcrumbs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-glyphicons.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-jumbotron.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-labels.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-page-header.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-pagination.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-progress.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-thumbnails.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components-wells.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/components.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/getting-started.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/glyphicons-defs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/glyphicons-list.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/doc/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/docs-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/make-glyphicons.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/page.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/pygments.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/bootstrap-rst/roles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/category_meta/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/category_meta/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/category_meta/category_meta.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/clean_summary/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/clean_summary/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/clean_summary/clean_summary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/code_include/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/code_include/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/code_include/code_include.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/collate_content/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/collate_content/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/collate_content/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/collate_content/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/collate_content/collate_content.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/collate_content/test_collate_content.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/creole_reader/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/creole_reader/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/creole_reader/creole_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/custom_article_urls/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/custom_article_urls/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/custom_article_urls/custom_article_urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/dateish/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/dateish/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/dateish/dateish.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/disqus_static/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/disqus_static/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/disqus_static/disqus_static.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/events/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/events/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/events/events.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/events/events_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/extract_toc/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/extract_toc/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/extract_toc/extract_toc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/feed_summary/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/feed_summary/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/feed_summary/feed_summary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/feed_summary/magic_set.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_git/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_git/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_git/actions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_git/content_adapter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_git/git_wrapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_git/registration.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_git/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_hg/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_hg/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/filetime_from_hg/filetime_from_hg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/footer_insert/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/footer_insert/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/footer_insert/footer_insert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gallery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gallery/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gallery/gallery.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gist_directive/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gist_directive/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gist_directive/gist_directive.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github-wiki/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github-wiki/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github-wiki/wiki.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github-wiki/wiki.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github-wiki/wikiarticle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github_activity/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github_activity/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/github_activity/github_activity.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/global_license/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/global_license/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/global_license/global_license.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/glossary/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/glossary/glossary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/glossary/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/goodreads_activity/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/goodreads_activity/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/goodreads_activity/goodreads_activity.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/googleplus_comments/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/googleplus_comments/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/googleplus_comments/googleplus_comments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gravatar/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gravatar/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gravatar/gravatar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gzip_cache/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gzip_cache/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gzip_cache/gzip_cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/gzip_cache/test_gzip_cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/headerid/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/headerid/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/headerid/headerid.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/html_entity/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/html_entity/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/html_entity/html_entity.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/html_rst_directive/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/html_rst_directive/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/html_rst_directive/html_rst_directive.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/i18n_subsites.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/implementing_language_buttons.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/localizing_using_jinja2.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/pages/hidden-page-cz.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/pages/hidden-page-de.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/pages/hidden-page-en.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/pages/untranslated-page.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/translated_article-cz.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/translated_article-de.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/translated_article-en.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/content/untranslated_article-en.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/localized_theme/babel.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/localized_theme/static/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/localized_theme/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/localized_theme/translations/de/LC_MESSAGES/messages.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/an-untranslated-article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/cz/an-untranslated-article-en.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/cz/feeds_all.atom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/cz/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/cz/pages/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/cz/translated-article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/de/drafts/an-untranslated-article-en.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/de/feeds_all.atom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/de/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/de/pages/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/de/pages/untranslated-page-en.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/de/translated-article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/feeds_all.atom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/pages/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/pages/untranslated-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/theme/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/output/translated-article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_data/pelicanconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/i18n_subsites/test_i18n_subsites.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/ical/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/ical/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/ical/ical.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/interlinks/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/interlinks/interlinks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/interlinks/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/interlinks/test_data/testme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jinja2content/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jinja2content/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jinja2content/jinja2content.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/libravatar/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/libravatar/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/libravatar/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/libravatar/libravatar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/libravatar/test_data/theme/templates/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/libravatar/test_libravatar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/linker/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/linker/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/linker/content_objects.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/linker/linker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/linker/mailto.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/audio.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/b64img.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/diag.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/flickr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/giphy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/gram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/graphviz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/img.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/include_code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/liquid_tags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/literal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/mdx_liquid_tags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/notebook.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/pelicanhtml_1.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/pelicanhtml_2.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/pelicanhtml_3.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/pygalcharts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/soundcloud.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/speakerdeck.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/spotify.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_audio.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/content/notebooks/test_nbformat3.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/content/notebooks/test_nbformat4.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat4.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/flickr.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/giphy.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/output/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/output/test-ipython-notebook-nb-format-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/output/test-ipython-notebook-nb-format-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/pelicanconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/pelicanhtml_2.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_data/pelicanhtml_3.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_flickr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_generation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_giphy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_notebook.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/test_soundcloud.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/tox.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/video.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/vimeo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/liquid_tags/youtube.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/md_inline_extension/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/md_inline_extension/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/md_inline_extension/inline.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/md_inline_extension/pelican_inline_markdown_extension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/members/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/members/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/members/members.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/multi_part/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/multi_part/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/multi_part/multi_part.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/neighbors/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/neighbors/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/neighbors/neighbors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/optimize_images/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/optimize_images/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/optimize_images/optimize_images.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org_reader/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org_reader/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org_reader/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org_reader/org_reader.el" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org_reader/org_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pdf/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pdf/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pdf/pdf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pdf/test_pdf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican-rdf/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican-rdf/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican-rdf/pelican_rdf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican-rdf/sparql-queries/classes.sparql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican-rdf/sparql-queries/lov_metadata.sparql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/avatars.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/comment.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/doc/avatars.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/doc/feed.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/doc/import.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/doc/installation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/doc/quickstart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/identicon/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/identicon/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/identicon/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/identicon/identicon.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/import/blogger_comment_export.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/pelican_comment_system.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/theme/static/js/comments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_comment_system/theme/templates/pcs/comments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_unity_webgl/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_unity_webgl/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_unity_webgl/UnityGameDirective.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_unity_webgl/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_unity_webgl/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_unity_webgl/template.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/pelican_unity_webgl/test_unitywebgl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/permalinks/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/permalinks/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/permalinks/permalinks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/licenses.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/photos.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/test_data/agallery/captions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/test_data/agallery/exif.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/test_data/filename.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/test_data/photo.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/photos/test_photos.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/plantuml/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/plantuml/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/plantuml/generateUmlDiagram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/plantuml/pandoc-plantuml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/plantuml/plantuml_md.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/plantuml/plantuml_rst.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/post_stats/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/post_stats/post_stats.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/post_stats/readability.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/post_stats/readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/random_article/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/random_article/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/random_article/random_article.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/read_more_link/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/read_more_link/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/read_more_link/read_more_link.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/read_more_link/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/related_posts/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/related_posts/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/related_posts/related_posts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/render_math/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/render_math/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/render_math/math.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/render_math/mathjax_script_template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/render_math/pelican_mathjax_markdown_extension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/representative_image/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/representative_image/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/representative_image/representative_image.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/representative_image/test_representative_image.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/rmd_reader/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/rmd_reader/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/rmd_reader/rmd_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/rmd_reader/test_rmd_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/section_number/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/section_number/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/section_number/section_number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/series/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/series/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/series/series.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/share_post/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/share_post/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/share_post/share_post.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/show_source/ReadMe.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/show_source/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/show_source/show_source.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/simple_footnotes/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/simple_footnotes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/simple_footnotes/simple_footnotes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/simple_footnotes/test_simple_footnotes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sitemap/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sitemap/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sitemap/sitemap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/slim/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/slim/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/slim/slim.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/static_comments/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/static_comments/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/static_comments/static_comments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/sub_parts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/test_data/noparent.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/test_data/parent--implicit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/test_data/parent-explicit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/test_data/parent.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sub_parts/test_sub_parts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/subcategory/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/subcategory/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/subcategory/subcategory.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/summary/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/summary/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/summary/summary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/summary/test_summary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/tag_cloud.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/test_data/article_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/test_data/article_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/test_data/article_3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/test_data/article_4.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/test_data/article_5.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tag_cloud/test_tag_cloud.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/2012-11-30_filename-metadata.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/another_super_article-fr.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/another_super_article.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/article2-fr.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/article2.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/cat1/article1.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/cat1/article2.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/cat1/article3.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/cat1/markdown-article.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/draft_article.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/extra/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/pages/hidden_page.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/pages/jinja2_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/pages/override_url_saveas.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/pages/test_page.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/super_article.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/unbelievable.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/content/unwanted_file" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/pelican.conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/css/pygment.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/css/typogrify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/static/css/wide.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/analytics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/archives.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/article_infos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/author.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/authors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/comments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/disqus_script.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/github.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/piwik.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/tag.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/taglist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/translations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/notmyidea/templates/twitter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/archives.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/author.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/categories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/gosquared.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/tag.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/tags.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/test_data/themes/simple/templates/translations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/textile_reader/Readme.textile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/textile_reader/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/textile_reader/textile_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/test_thumbnails.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/thumbnailer/thumbnailer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tipue_search/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tipue_search/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/tipue_search/tipue_search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/touch/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/touch/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/twitter_bootstrap_rst_directives/Demo.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/twitter_bootstrap_rst_directives/Readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/twitter_bootstrap_rst_directives/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/twitter_bootstrap_rst_directives/bootstrap_rst_directives.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/txt2tags_reader/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/txt2tags_reader/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/txt2tags_reader/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/txt2tags_reader/txt2tags_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/video_privacy_enhancer/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/video_privacy_enhancer/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/video_privacy_enhancer/video_privacy_enhancer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/video_privacy_enhancer/video_privacy_enhancer_jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/video_privacy_enhancer/video_service_thumbnail_url_generating_functions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/w3c_validate/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/w3c_validate/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/w3c_validate/wc3_validate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/yuicompressor/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/yuicompressor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/yuicompressor/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/yuicompressor/yuicompressor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publishconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/author/vincent-zaballa.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/authors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/posts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/first-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/About.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/Contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/python-firsts-ml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/img/profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/img/profile_license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/algol.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/algol.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/algol_nu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/algol_nu.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/autumn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/autumn.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/borland.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/borland.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/bw.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/bw.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/colorful.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/colorful.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/emacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/emacs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/friendly.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/friendly.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/fruity.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/fruity.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/github.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/github.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/igor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/igor.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/lovelace.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/lovelace.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/manni.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/manni.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/monokai.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/monokai.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/murphy.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/murphy.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/native.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/native.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/paraiso-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/paraiso-dark.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/paraiso-light.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/paraiso-light.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/pastie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/pastie.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/perldoc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/perldoc.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/rrt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/rrt.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/solarized-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/solarized-dark.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/tango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/tango.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/trac.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/trac.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/vim.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/vim.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/vs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/vs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/xcode.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/pygments/xcode.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/stylesheet/style.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/stylesheet/style.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/stylesheet/variables.less" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feeds/all.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/all.atom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feeds/posts.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/posts.atom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/profpic.jpeg" afterPath="$PROJECT_DIR$/content/images/profpic.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/profpic_copy_kFg_icon.ico" afterPath="$PROJECT_DIR$/content/images/profpic_copy_kFg_icon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb-meta" afterPath="$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb-meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/pages/Projects.md" afterPath="$PROJECT_DIR$/content/pages/Projects.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="$PROJECT_DIR$/output/archives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/author/vincent-zaballa.html" afterPath="$PROJECT_DIR$/output/author/vincent-zaballa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="$PROJECT_DIR$/output/authors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="$PROJECT_DIR$/output/categories.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/category/posts.html" afterPath="$PROJECT_DIR$/output/category/posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/feeds/all.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/all.atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/feeds/posts.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/posts.atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/first-post.html" afterPath="$PROJECT_DIR$/output/first-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/pages/About.html" afterPath="$PROJECT_DIR$/output/pages/About.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/pages/Contact.html" afterPath="$PROJECT_DIR$/output/pages/Contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/sitemap.xml" afterPath="$PROJECT_DIR$/output/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tag/python-firsts-ml.html" afterPath="$PROJECT_DIR$/output/tag/python-firsts-ml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="$PROJECT_DIR$/output/tags.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -695,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="193">
@@ -705,21 +39,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Taiwan Analysis Final.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Projects.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/pages/Projects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="90">
-                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -775,8 +100,9 @@
         <option value="$PROJECT_DIR$/content/pages/Contact.md" />
         <option value="$PROJECT_DIR$/content/pages/About.md" />
         <option value="$PROJECT_DIR$/pelicanconf.py" />
-        <option value="$PROJECT_DIR$/content/pages/Projects.md" />
         <option value="$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb" />
+        <option value="$PROJECT_DIR$/content/pages/Projects.md" />
+        <option value="$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb-meta" />
       </list>
     </option>
   </component>
@@ -871,7 +197,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1600" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3097015" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -879,7 +204,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23299101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -902,13 +227,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flex/README.md" />
     <entry file="file://$PROJECT_DIR$/publishconf.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1174,10 +492,25 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb-meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,13 +519,6 @@
         <state relative-caret-position="193">
           <caret line="41" column="70" lean-forward="false" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/articles/Taiwan Analysis Final.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
         </state>
       </provider>
     </entry>

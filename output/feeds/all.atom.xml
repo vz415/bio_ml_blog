@@ -5,8 +5,7 @@
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h1 id="Credit-Card-Default-Analysis"&gt;Credit Card Default Analysis&lt;a class="anchor-link" href="#Credit-Card-Default-Analysis"&gt;¶&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;This notebook will be dedicated to analyzing credit card records from payments in Taiwan. The goal is to create a model to predict the probability of defaulting on a payment.&lt;/p&gt;
-&lt;p&gt;The dataset I am using in this project is aimed at the case of customer default payments in Taiwan (Yeh and Lien, 2006) and compares the predictive accuracy of probability of default among data mining methods, with explanations of each step required to go from the imported data to data that can be used to classify defaults. For classification, I start by applying simple classification algorithms to the problem and assessing their accuracy using various performance metrics, including accuracy, precision, recall, and a ROC curves, when needed. This will conclude the first portion of this project, as this will tell how accurate traditional methods of classification are when trying to predict credit card defaults within this dataset.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+&lt;h1 id="Credit-Card-Default-Analysis"&gt;Credit Card Default Analysis&lt;a class="anchor-link" href="#Credit-Card-Default-Analysis"&gt;¶&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;This notebook will be dedicated to analyzing credit card records from payments in Taiwan using logistic regression and comparing various models. Logistic regression can be seen as the building block of neural networks, so a good fundamental understanding of this basic model will help the reader better understand neural nets and how they can optimize their performance. To do this, I will go from a basic model to using under and over-sampling techniques with regularization techniques to optimize model performance.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -979,7 +978,14 @@ h6:hover .anchor-link {
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h1 id="Credit-Card-Default-Analysis"&gt;Credit Card Default Analysis&lt;a class="anchor-link" href="#Credit-Card-Default-Analysis"&gt;¶&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;This notebook will be dedicated to analyzing credit card records from payments in Taiwan. The goal is to create a model to predict the probability of defaulting on a payment.&lt;/p&gt;
+&lt;h1 id="Credit-Card-Default-Analysis"&gt;Credit Card Default Analysis&lt;a class="anchor-link" href="#Credit-Card-Default-Analysis"&gt;¶&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;This notebook will be dedicated to analyzing credit card records from payments in Taiwan using logistic regression and comparing various models. Logistic regression can be seen as the building block of neural networks, so a good fundamental understanding of this basic model will help the reader better understand neural nets and how they can optimize their performance. To do this, I will go from a basic model to using under and over-sampling techniques with regularization techniques to optimize model performance.&lt;/p&gt;
+&lt;p&gt;This is not a short read, so please feel free to skip to the section you care about. Here's a TLDR for the time-starved:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Imbalanced datasets can cause big headaches, so it's worth it to manipulate your data to achieve a better balance.&lt;/li&gt;
+&lt;li&gt;ML practitioners should experiment with different models.&lt;/li&gt;
+&lt;li&gt;Optimizing models for the wrong measurement (e.g. Accuracy instead of F1 score) will get you nowhere fast.&lt;/li&gt;
+&lt;li&gt;Logistic regression is a great preprocessing tool to help you get a good feel for the dataset before training large and complicated neural nets, so get comfortable with them.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;The dataset I am using in this project is aimed at the case of customer default payments in Taiwan (Yeh and Lien, 2006) and compares the predictive accuracy of probability of default among data mining methods, with explanations of each step required to go from the imported data to data that can be used to classify defaults. For classification, I start by applying simple classification algorithms to the problem and assessing their accuracy using various performance metrics, including accuracy, precision, recall, and a ROC curves, when needed. This will conclude the first portion of this project, as this will tell how accurate traditional methods of classification are when trying to predict credit card defaults within this dataset.&lt;/p&gt;
 &lt;p&gt;From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. While initial results from training l1 and l2 logistic regression models on the imbalanced dataset were not satisfactory, which I am attributing to the imbalance of outcomes within the dataset, I address this problem by optimizing for recall within Sci-kit learn's 'GridsearchCV' module, and using under and over-sampling techniques from the python package "imblearn". I assess and compare the performance metrics among the original, under, and over-sampled models, with results indicating that both over and under-sampling improve the recall rates for predicting credit card defaults by an equivalent amount.&lt;/p&gt;
 &lt;p&gt;While I was able to maximize the recall rates by using under and over-sampling techniques, the precision rates dropped significantly. For the purpose of this project and the context of this notebook, I will conclude with a statement about optimality of precision and how to proceed.&lt;/p&gt;
@@ -1382,8 +1388,8 @@ dtype: int64&lt;/pre&gt;
 &lt;div class="output_wrapper"&gt;
 &lt;div class="output"&gt;
 &lt;div class="output_area"&gt;
-&lt;div class="prompt"&gt;&lt;/div&gt;
-&lt;div class="output_html rendered_html output_subarea "&gt;
+&lt;div class="prompt output_prompt"&gt;Out[6]:&lt;/div&gt;
+&lt;div class="output_html rendered_html output_subarea output_execute_result"&gt;
 &lt;script&gt;requirejs.config({paths: { 'plotly': ['https://cdn.plot.ly/plotly-latest.min']},});if(!window.Plotly) {{require(['plotly'],function(plotly) {window.Plotly=plotly;});}}&lt;/script&gt;
 &lt;/div&gt;
 &lt;/div&gt;
