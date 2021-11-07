@@ -24,9 +24,9 @@ github_username:  vz415
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-remote-feed
 lsi: false
 safe: true
 source: . # Might need to change this
