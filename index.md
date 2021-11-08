@@ -20,7 +20,7 @@ Welcome to my online CV. Links to relevant literature related to my history can 
 
 
 ## 2021
-V. Zaballa, E. Hui, “Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.” NeurIPs Workshop on Learning Meaningful Representations of Life, Dec. 2021 (Accepted paper, to be presented)
+V. Zaballa, E. Hui, “Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.” NeurIPs Workshop on Learning Meaningful Representations of Life, Dec. 2021 (To be presented)
 
 ## 2015
 V. Zaballa, D. Friedrichs, “A Novel Tissue Welding Device using Low-Voltage Far-Field Coaxial Electrospinning.” ASME Design of Medical Devices Conference Journal, Jan. 2015 [paper](https://asmedigitalcollection.asme.org/medicaldevices/article/9/3/030922/448060/A-Novel-Tissue-Welding-Device-Using-Low-Voltage)
@@ -53,13 +53,13 @@ _Research Assistant & Whitaker Fellow_,	Oct. 2015 – Oct. 2016
 
 # Technical Skills
 
-**Programming Languages:** Python, R, Matlab, Julia, C++ (proficient), javascript (proficient), Fortran (basic)
+**Programming Languages:** Python, R, Matlab, Julia, C++ (proficient), javascript (proficient), Fortran (basic), SQL (basic)
 
 
-**Machine/Deep Learning & Statistical Frameworks:** Tensorflow, PyTorch, JAX, Pyro, GPyOpt, scikit-learn, rJAGs, RStan
+**Machine Learning & Statistical Frameworks:** Tensorflow, PyTorch, JAX, Pyro, rJAGs, RStan
 
 
-**Database, High Performance Computing (HPC), & Cloud:** SQL, postgresSQL, Slurm HPC, HPC parallel programming, Amazon Web Services (AWS)
+**Database, High Performance Computing (HPC), & Cloud:** postgresSQL, Slurm HPC, Amazon Web Services (AWS)
 
 
 **Deep & Statistical Learning Methods:** Implemented Normalizing Flows, (Variational) Autoencoders, GANs, CNNs, RNNs, LSTMs, Equivariant Neural Networks, Transformers (Attention), Ensemble Models, Hidden Markov Models (HMMs), Gaussian Processes, Bayesian Optimization, and Bayesian Hierarchical Models
