@@ -38,7 +38,7 @@ _Data Scientist_,	April 2017 – October 2017
 * Developed analytics and machine learning algorithms to draw insights from Colorado water data records within a Software as a Service (SaaS) application. [Go Code Colorado 2017 Hackathon winning team](https://gocode.colorado.gov/archive-2017/)
 
 **Cambiando Paradigmas**	La Paz, Bolivia,
-_Data Analyst_	Jan. 2017 – June 2018
+_Data Analyst_,	Jan. 2017 – June 2018
 * Performed data exploration and analysis of energy efficiency measures of public buildings
 * Clustered and discovered a quarter of buildings accounted for 70% of energy consumption
 * Used a CART model and optimization to recommend a plan for environmental investments that increased returns invested by 4.5x compared to previous investment portfolio
