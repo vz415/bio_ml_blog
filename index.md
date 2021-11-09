@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my online CV. Links to relevant literature related to my history can be found here. As well, this will eventually become a place to blog about bioengineering, machine learning, and how to write stellar SBIR grants, with an emphasis on the former two. [twitter](https://twitter.com/VZaballa)
+Welcome to my online CV. Links to relevant literature related to my history can be found here. As well, this will eventually become a place to blog about bioengineering, machine learning, and how to write stellar SBIR grants, with an emphasis on the former two. Seeking summer 2022 machine learning internship. [twitter](https://twitter.com/VZaballa)
 
 * * *
 
