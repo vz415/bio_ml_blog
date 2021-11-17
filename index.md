@@ -31,7 +31,7 @@ V. Zaballa, D. Friedrichs, “A Novel Tissue Welding Device using Low-Voltage Fa
 **Fannin Innovation Studio**	Houston, Texas,
 _Entrepreneur Fellow_,	June 2018 – Aug. 2019
 * Managed commercialization and R&D of pioneering fetal surgery device, resulting in award of $2 million SBIR Phase II Commercialization and Product Development Grant. [press release](https://fannininnovation.com/wp-content/uploads/2019/11/11_05_2019_ChorioAnchor-Press-Release-Final-1.pdf)
-* Engineering manager for novel ELISA device, directing two lab technicians and one software engineer in hardware and computer vision development, resulting in a new hardware design freeze and quality control computer vision software. [company website](https://brevitest.com/)
+* •	Engineering manager for novel ELISA device, directing two hardware and one software engineer, resulting in a hardware design freeze and new quality control computer vision software. [company website](https://brevitest.com/)
 
 **Drip, LLC.** 	Colorado Springs, Colorado,
 _Data Scientist_,	April 2017 – October 2017
@@ -39,9 +39,8 @@ _Data Scientist_,	April 2017 – October 2017
 
 **Cambiando Paradigmas**	La Paz, Bolivia,
 _Data Analyst_,	Jan. 2017 – June 2018
-* Performed data exploration and analysis of energy efficiency measures of public buildings
-* Clustered and discovered a quarter of buildings accounted for 70% of energy consumption
-* Used a CART model and optimization to recommend a plan for environmental investments that increased returns invested by 4.5x compared to previous investment portfolio
+* Clustered & visualized energy data to show 25% of buildings accounted for 70% of energy consumption
+* Improved returns invested in renewable energy programs by 4.5x compared to previous investment portfolio using a random forest machine learning model and knapsack optimization
 
 **Imperial College London**	London, United Kingdom,
 _Research Assistant & Whitaker Fellow_,	Oct. 2015 – Oct. 2016
