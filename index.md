@@ -31,7 +31,7 @@ V. Zaballa, D. Friedrichs, “A Novel Tissue Welding Device using Low-Voltage Fa
 **Fannin Innovation Studio**	Houston, Texas,
 _Entrepreneur Fellow_,	June 2018 – Aug. 2019
 * Managed commercialization and R&D of pioneering fetal surgery device, resulting in award of $2 million SBIR Phase II Commercialization and Product Development Grant. [press release](https://fannininnovation.com/wp-content/uploads/2019/11/11_05_2019_ChorioAnchor-Press-Release-Final-1.pdf)
-* •	Engineering manager for novel ELISA device, directing two hardware and one software engineer, resulting in a hardware design freeze and new quality control computer vision software. [company website](https://brevitest.com/)
+* Engineering manager for novel ELISA device, directing two hardware and one software engineer, resulting in a hardware design freeze and new quality control computer vision software. [company website](https://brevitest.com/)
 
 **Drip, LLC.** 	Colorado Springs, Colorado,
 _Data Scientist_,	April 2017 – October 2017
