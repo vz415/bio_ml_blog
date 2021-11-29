@@ -20,7 +20,7 @@ Welcome to my online CV. Links to relevant literature related to my history can 
 
 
 ## 2021
-V. Zaballa, E. Hui, “Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.” NeurIPs Workshop on Learning Meaningful Representations of Life, Dec. 2021 (To be presented)
+V. Zaballa, E. Hui, “Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.” NeurIPs Workshop on Learning Meaningful Representations of Life, Dec. 2021 [paper](https://arxiv.org/abs/2111.13612)
 
 ## 2015
 V. Zaballa, D. Friedrichs, “A Novel Tissue Welding Device using Low-Voltage Far-Field Coaxial Electrospinning.” ASME Design of Medical Devices Conference Journal, Jan. 2015 [paper](https://asmedigitalcollection.asme.org/medicaldevices/article/9/3/030922/448060/A-Novel-Tissue-Welding-Device-Using-Low-Voltage)
