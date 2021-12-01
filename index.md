@@ -67,7 +67,7 @@ _Research Assistant & Whitaker Fellow_,	Oct. 2015 – Oct. 2016
 
 # Teaching
 
-**Imperial College London**	Oct. 2015 – Dec. 2015, TA, _Maths 2_: Multivariate calculus and differential equations.
+**Imperial College London**	Oct. 2015 – Dec. 2015, TA, _Maths 2_: Multivariable calculus and differential equations.
 
 * * *
 
