@@ -72,7 +72,7 @@ _Research Assistant & Whitaker Fellow_,	Oct. 2015 – Oct. 2016
 * * *
 
 # Awards & Fellowships
-* National Institutes of Health (NIH) National Research Service Award (NRSA) F31 Fellowship (2021-2024)
+* National Institutes of Health (NIH) National Institute of General Medical Sciences (NIGMS) National Research Service Award (NRSA) F31 Fellowship  (2021-2024)
 * Google Computer Science Research Mentorship Program Awardee	(2021)
 * Go Code Colorado Hackathon Winning Team	(2017)
 * Whitaker International Fellowship	(2015-2016)
