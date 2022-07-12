@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my online CV. Links to relevant literature related to my history can be found here. As well, this will eventually become a place to blog about bioengineering, machine learning, and how to write stellar SBIR grants, with an emphasis on the former two. Seeking summer 2022 machine learning internship. [Follow me on twitter](https://twitter.com/VZaballa)
+Welcome to my online CV. Links to relevant literature related to my history can be found here. As well, this will eventually become a place to blog about bioengineering, machine learning, and how to write stellar SBIR grants, with an emphasis on the former two. Seeking summer 2023 machine learning internship. [Follow me on twitter](https://twitter.com/VZaballa)
 
 * * *
 
@@ -19,11 +19,20 @@ Welcome to my online CV. Links to relevant literature related to my history can 
 # Publications
 
 
+## 2022
+V. Zaballa, E. Hui, “An Optimal Likelihood Free Method for Biological Model Selection.” ICML Workshop on Computational Biology, July 2022 (In Press)
+
 ## 2021
 V. Zaballa, E. Hui, “Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.” NeurIPs Workshop on Learning Meaningful Representations of Life, Dec. 2021 [paper](https://arxiv.org/abs/2111.13612) [video](https://youtu.be/MPJxNKUvtgo)
 
 ## 2015
 V. Zaballa, D. Friedrichs, “A Novel Tissue Welding Device using Low-Voltage Far-Field Coaxial Electrospinning.” ASME Design of Medical Devices Conference Journal, Jan. 2015 [paper](https://asmedigitalcollection.asme.org/medicaldevices/article/9/3/030922/448060/A-Novel-Tissue-Welding-Device-Using-Low-Voltage)
+
+* * *
+
+# Invited Talks & Presentations
+
+**“Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.”** Lightning Talk at SoCalSysBio 2022 on April 2, 2022, Los Angeles, CA.
 
 * * *
 
@@ -66,6 +75,8 @@ _Research Assistant & Whitaker Fellow_,	Oct. 2015 – Oct. 2016
 * * *
 
 # Teaching
+
+**University of California, Irvine** June 2022, TA, _Cancer Systems Biology Short Course_: Helped students run end-to-end python gene expression processing notebooks in Google Colab.
 
 **Imperial College London**	Oct. 2015 – Dec. 2015, TA, _Maths 2_: Multivariable calculus and differential equations.
 
