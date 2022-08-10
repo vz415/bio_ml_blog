@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my online CV. Links to relevant literature related to my history can be found here. As well, this will eventually become a place to blog about bioengineering, machine learning, and how to write stellar SBIR grants, with an emphasis on the former two. Seeking summer 2023 machine learning internship. [Follow me on twitter](https://twitter.com/VZaballa)
+Welcome to my online CV. Links to relevant literature related to my history can be found here. As well, this will eventually become a place to blog about bioengineering, machine learning, and how to write stellar SBIR grants, with an emphasis on the former two. Seeking summer 2023 research scientist internships. [Follow me on twitter](https://twitter.com/VZaballa)
 
 * * *
 
@@ -20,7 +20,7 @@ Welcome to my online CV. Links to relevant literature related to my history can 
 
 
 ## 2022
-V. Zaballa, E. Hui, “An Optimal Likelihood Free Method for Biological Model Selection.” ICML Workshop on Computational Biology, July 2022 (In Press)
+V. Zaballa, E. Hui, “An Optimal Likelihood Free Method for Biological Model Selection.” ICML 2022 Workshop on Computational Biology, July 2022 [paper](https://arxiv.org/abs/2208.02344) 
 
 ## 2021
 V. Zaballa, E. Hui, “Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.” NeurIPs Workshop on Learning Meaningful Representations of Life, Dec. 2021 [paper](https://arxiv.org/abs/2111.13612) [video](https://youtu.be/MPJxNKUvtgo)
@@ -61,7 +61,7 @@ _Research Assistant & Whitaker Fellow_,	Oct. 2015 – Oct. 2016
 
 # Technical Skills
 
-**Programming Languages:** Python, R, Matlab, Julia, C++ (proficient), javascript (proficient), Fortran (basic), SQL (basic)
+**Programming Languages:** Python, R, Matlab, C++ (basic), javascript (basic), Julia (basic), Fortran (basic), SQL (basic)
 
 
 **Machine Learning & Statistical Frameworks:** Tensorflow, PyTorch, JAX, Pyro, rJAGs, RStan
@@ -69,14 +69,15 @@ _Research Assistant & Whitaker Fellow_,	Oct. 2015 – Oct. 2016
 
 **Database, High Performance Computing (HPC), & Cloud:** postgresSQL, Slurm HPC, Amazon Web Services (AWS)
 
-
-**Deep & Statistical Learning Methods:** Implemented Normalizing Flows, (Variational) Autoencoders, GANs, CNNs, RNNs, LSTMs, Equivariant Neural Networks, Transformers (Attention), Ensemble Models, Hidden Markov Models (HMMs), Gaussian Processes, Bayesian Optimization, and Bayesian Hierarchical Models
-
 * * *
 
-# Teaching
+# Teaching & Professional Service
+
+**Contributor, Probabilistic Machine Learning: Advanced Topics by Kevin Murphy** Contributed normalizing flow JAX examples in Google Colab. [Figure](https://gist.github.com/vz415/dbd5746d9f88302e9d596d348bb46686) [Notebook1](https://colab.research.google.com/drive/1RvKleNHKjjeVpnpPGpQ01AzEgXINqoYd?authuser=2) [Notebook2](https://colab.research.google.com/drive/1xQscm8Z3TAhIovzKVoCQHiKZZfj6Sh-4?authuser=2)
 
 **University of California, Irvine** June 2022, TA, _Cancer Systems Biology Short Course_: Helped students run end-to-end python gene expression processing notebooks in Google Colab.
+
+**Reviewer, AISTATS 2022**
 
 **Imperial College London**	Oct. 2015 – Dec. 2015, TA, _Maths 2_: Multivariable calculus and differential equations.
 
