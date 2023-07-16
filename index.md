@@ -20,6 +20,7 @@ Welcome to my online CV. Links to relevant literature related to my history can 
 
 ## 2023
 V. Zaballa, E. Hui, “Stochastic Gradient Bayesian Optimal Experimental Designs for Simulation-based Inference.” ICML 2023 Differentiable Everything Workshop, July 2023 [Paper](https://arxiv.org/abs/2306.15731)
+•	Demonstrated a novel approach for estimating Mutual Information in Simulation-based Inference, enabling amortized inference of intractable likelihood that showcased a theoretical advancement and practical feasibility in high-dimensional optimization compared to Bayesian optimization.
 
 
 ## 2022
