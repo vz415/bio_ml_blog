@@ -20,16 +20,19 @@ Welcome to my online CV. Links to relevant literature related to my history can 
 
 ## 2023
 V. Zaballa, E. Hui, “Stochastic Gradient Bayesian Optimal Experimental Designs for Simulation-based Inference.” ICML 2023 Differentiable Everything Workshop, July 2023 [Paper](https://arxiv.org/abs/2306.15731)
+
 •	Demonstrated a novel approach for estimating Mutual Information in Simulation-based Inference, enabling amortized inference of intractable likelihood that showcased a theoretical advancement and practical feasibility in high-dimensional optimization compared to Bayesian optimization.
 
 
 ## 2022
 V. Zaballa, E. Hui, “An Optimal Likelihood Free Method for Biological Model Selection.” ICML 2022 Workshop on Computational Biology, July 2022 [paper](https://arxiv.org/abs/2208.02344) 
+
 •	Created new method for automated biological model selection that improved convergence to a correct model with 166-298% better accuracy over baseline methods with a fixed budget of experiments.
 
 
 ## 2021
 V. Zaballa, E. Hui, “Optimal Design of Experiments for Simulation-Based Inference of Mechanistic Acyclic Biological Networks.” NeurIPs Workshop on Learning Meaningful Representations of Life, Dec. 2021 [paper](https://arxiv.org/abs/2111.13612) [video](https://youtu.be/MPJxNKUvtgo)
+
 •	Improved average experimental design efficiency in systems biology over baseline standards by 225% using Bayesian deep learning and physics-based math models.
 
 
