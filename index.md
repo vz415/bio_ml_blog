@@ -18,6 +18,9 @@ Welcome to my online CV. Links to relevant literature related to my history can 
 
 # Publications
 
+## 2023
+V. Zaballa, E. Hui, “Stochastic Gradient Bayesian Optimal Experimental Designs for Simulation-based Inference.” ICML 2023 Differentiable Everything Workshop, July 2023 [Paper](https://arxiv.org/abs/2306.15731)
+
 
 ## 2022
 V. Zaballa, E. Hui, “An Optimal Likelihood Free Method for Biological Model Selection.” ICML 2022 Workshop on Computational Biology, July 2022 [paper](https://arxiv.org/abs/2208.02344) 
